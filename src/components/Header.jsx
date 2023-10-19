@@ -30,6 +30,8 @@ export default function Header() {
             <Link to="/sign-up">
             <li className=' sm:inline text-slate-700 hover:underline'>SignUp</li>
             </Link>
+           
+
         </ul>
         </div>
         
